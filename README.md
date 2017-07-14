@@ -4,7 +4,7 @@ Repository for Andrew's Machine Learning course on Coursera
 TODO:
   - [x] Linear Regression
   - [x] Logistic Regression
-  - [ ] Multi-class Classification and Neural Network
+  - [x] Multi-class Classification and Neural Network
   - [ ] Neural Network
   - [ ] Regularized Linear Regression and Bias/Variance
   - [ ] Support Vector Machines
