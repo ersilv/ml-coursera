@@ -5,7 +5,7 @@ TODO:
   - [x] Linear Regression
   - [x] Logistic Regression
   - [x] Multi-class Classification and Neural Network
-  - [ ] Neural Network
+  - [x] Neural Network
   - [ ] Regularized Linear Regression and Bias/Variance
   - [ ] Support Vector Machines
   - [ ] K-means Clustering and PCA
