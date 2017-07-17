@@ -7,6 +7,6 @@ TODO:
   - [x] Multi-class Classification and Neural Network
   - [x] Neural Network
   - [x] Regularized Linear Regression and Bias/Variance
-  - [ ] Support Vector Machines
+  - [x] Support Vector Machines
   - [ ] K-means Clustering and PCA
   - [ ] Anomaly Detection and Recomender Systems
