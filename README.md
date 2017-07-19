@@ -9,4 +9,4 @@ TODO:
   - [x] Regularized Linear Regression and Bias/Variance
   - [x] Support Vector Machines
   - [x] K-means Clustering and PCA
-  - [ ] Anomaly Detection and Recomender Systems
+  - [x] Anomaly Detection and Recomender Systems
