@@ -10,3 +10,5 @@ TODO:
   - [x] Support Vector Machines
   - [x] K-means Clustering and PCA
   - [x] Anomaly Detection and Recomender Systems
+
+  - [X] Certificate
